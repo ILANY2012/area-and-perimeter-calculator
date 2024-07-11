@@ -1,0 +1,27 @@
+#header{
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color:lightblue;
+    border: 3px solid white;
+    color:white;
+    border-radius: 12px
+}
+button{
+    background-color: aliceblue;
+    border-radius: 6px;
+
+}
+input{
+    background-color: aliceblue;
+    border-radius:4px;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#btn{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#ans{
+    text-size-adjust: 10px;
+}
